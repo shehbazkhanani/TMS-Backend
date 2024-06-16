@@ -10,8 +10,6 @@ Welcome to the Task Management System (TMS) backend repository. This repository 
 git clone git@github.com:shehbazkhanani/TMS-Backend.git
 cd TMS-Backend
 Install Dependencies
-bash
-Copy code
 pip install -r requirements.txt
 Run the Flask Application
 bash
